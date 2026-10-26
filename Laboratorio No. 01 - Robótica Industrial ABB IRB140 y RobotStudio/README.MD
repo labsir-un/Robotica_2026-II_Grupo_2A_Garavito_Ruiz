@@ -784,11 +784,11 @@ El video muestra las simulaciones en RobotStudio y los resultados finales en el 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ID_VIDEO">
-    <img src="https://img.youtube.com/vi/ID_VIDEO/hqdefault.jpg" alt="Video de simulaciones y resultados finales (2 rutinas)" width="640">
+    <img src="https://img.youtube.com/vi/ID_VIDEO" alt="Video de simulaciones y resultados finales (2 rutinas)" width="640">
   </a>
 </p>
 
-<p align="center"><b>Video.</b> <em>Simulaciones y resultados finales (2 rutinas). Enlace: [pegar aquí el enlace del canal de LabSIR]</em></p>
+<p align="center"><b>Video.</b> <em>Simulaciones y resultados finales (2 rutinas). Enlace: </em></p>
 
 ### 🍰 Pastel final
 
