@@ -197,6 +197,14 @@ En el robot real hicimos dos calibraciones moviendo el robot a mano con el joyst
 
 Este método solo entrega la posición del TCP, no su orientación. Por eso el tooldata real quedó con orientación [1, 0, 0, 0].
 
+<p align="center">
+  <a href="https://youtube.com/shorts/yWkMEwdqsA0">
+    <img src="https://img.youtube.com/vi/yWkMEwdqsA0/hqdefault.jpg" alt="Video de simulaciones y resultados finales (2 rutinas)" width="640">
+  </a>
+</p>
+
+<p align="center"><b>Video.</b> <em>Simulaciones y resultados finales (2 rutinas). Enlace: </em></p>
+
 ### 📍 4.2 Calibración del Work Object
 
 1. Con la herramienta ya activa, creamos un wobjdata nuevo y escogimos la definición del user frame por tres puntos.
