@@ -203,7 +203,7 @@ Este método solo entrega la posición del TCP, no su orientación. Por eso el t
   </a>
 </p>
 
-<p align="center"><b>Video.</b> <em>Simulaciones y resultados finales (2 rutinas). Enlace: </em></p>
+<p align="center"><b>Video.</b> <em>Proceso de calibración del Robot ABB ABEL para su posición de Home</em></p>
 
 ### 📍 4.2 Calibración del Work Object
 
