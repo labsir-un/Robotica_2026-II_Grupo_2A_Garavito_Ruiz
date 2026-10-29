@@ -791,8 +791,8 @@ La tabla anterior corresponde a la Rutina 1. No usamos `MoveC` porque con la apr
 El video muestra las simulaciones en RobotStudio y los resultados finales en el robot real de las dos rutinas.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ID_VIDEO">
-    <img src="https://img.youtube.com/vi/ID_VIDEO" alt="Video de simulaciones y resultados finales (2 rutinas)" width="640">
+  <a href="https://www.youtube.com/watch?v=kMlhwInUrdA">
+    <img src="https://img.youtube.com/vi/kMlhwInUrdA" alt="Video de simulaciones y resultados finales (2 rutinas)" width="640">
   </a>
 </p>
 
