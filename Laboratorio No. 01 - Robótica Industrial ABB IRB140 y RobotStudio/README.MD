@@ -144,6 +144,10 @@ Este tooldata es el de la calibración virtual, hecho en RobotStudio con el mode
 
 Todas las trayectorias de dibujo están programadas respecto a un Work Object y no respecto a la base del robot. Así los targets se leen como coordenadas sobre la superficie del pastel: X e Y recorren el plano del dibujo y Z = 0 es el contacto del marcador con el pastel. La Rutina 1 usa `Workobject_1` y la Rutina 2 usa `Workobject_4`.
 
+## Plano del Pastel-Gafas
+
+![Plano del proyecto](./CADs/Plano_Boceto_Torta_page-0001.jpg)
+
 ### 🛠️ Cómo lo creamos
 
 1. Con la caja del pastel ya ubicada en la estación, en la pestaña Inicio de RobotStudio abrimos Otros y luego Crear Work Object.
