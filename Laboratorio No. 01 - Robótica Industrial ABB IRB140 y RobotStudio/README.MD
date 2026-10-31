@@ -146,7 +146,7 @@ Todas las trayectorias de dibujo están programadas respecto a un Work Object y 
 
 ## Plano del Pastel-Gafas
 
-![Plano del proyecto](./CADs/Plano_Boceto_Torta_page-0001.jpg)
+![Plano del proyecto](./CADS/Plano_Boceto_Torta_page-0001.jpg)
 
 ### 🛠️ Cómo lo creamos
 
