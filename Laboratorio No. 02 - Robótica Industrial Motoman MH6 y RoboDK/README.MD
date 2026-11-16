@@ -26,10 +26,6 @@ En esta práctica se opera el manipulador **Yaskawa Motoman MH6** (controlador *
 
 ## 1. La celda de trabajo y plano de planta
 
-El MH6 está montado sobre una base azul, entre un alimentador de barra **SNS42** y un torno CNC **JSL 32AB (Jinn Fa)**. A un lado hay un **eje externo** (servomotor, reductor, disco y tablero) que el controlador puede mover como eje adicional del robot.
-
-![Plano de planta](img/plano_planta.svg)
-
 | N.º | Elemento | Función en la práctica |
 |---|---|---|
 | 1 | Totalizador (Siemens VL160X, 20 A) | Alimentación general de la celda |
