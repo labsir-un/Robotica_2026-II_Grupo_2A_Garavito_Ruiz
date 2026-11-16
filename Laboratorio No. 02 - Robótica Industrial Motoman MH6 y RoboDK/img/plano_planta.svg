@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 560" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect width="780" height="560" fill="#ffffff"/>
+  <text x="20" y="28" font-size="16" font-weight="bold" fill="#1f2937">Plano de planta de la celda (vista superior, esquemático y sin escala)</text>
+
+  <!-- pared de fondo -->
+  <line x1="20" y1="50" x2="760" y2="50" stroke="#374151" stroke-width="6"/>
+  <text x="640" y="44" fill="#6b7280" font-size="12">pared de fondo</text>
+
+  <!-- totalizador -->
+  <rect x="70" y="56" width="46" height="26" fill="#fde68a" stroke="#92400e" stroke-width="2"/>
+  <text x="123" y="68" fill="#1f2937">1  Totalizador (Siemens VL160X, 20 A)</text>
+  <text x="123" y="82" fill="#6b7280" font-size="11">en pared; posición aproximada</text>
+
+  <!-- alimentador de barra -->
+  <rect x="60" y="100" width="500" height="58" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <text x="310" y="124" text-anchor="middle" fill="#1f2937">2  Alimentador de barra SNS42</text>
+  <text x="310" y="142" text-anchor="middle" fill="#6b7280" font-size="11">(en línea con el husillo del torno)</text>
+
+  <!-- torno CNC -->
+  <rect x="560" y="85" width="190" height="150" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+  <text x="655" y="150" text-anchor="middle" fill="#1f2937">3  Torno CNC</text>
+  <text x="655" y="168" text-anchor="middle" fill="#1f2937">JSL 32AB (Jinn Fa)</text>
+
+  <!-- eje externo -->
+  <rect x="60" y="190" width="70" height="60" fill="#bfdbfe" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="95" y="224" text-anchor="middle" fill="#1e3a8a" font-size="11">motor +</text>
+  <text x="95" y="238" text-anchor="middle" fill="#1e3a8a" font-size="11">reductor</text>
+  <rect x="130" y="180" width="14" height="80" fill="#d6c7a1" stroke="#7c5e2a" stroke-width="2"/>
+  <rect x="144" y="190" width="95" height="60" fill="none" stroke="#7c5e2a" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="60" y="275" fill="#1f2937">4  Eje externo (7.º GDL)</text>
+  <text x="60" y="291" fill="#6b7280" font-size="11">servomotor, reductor, disco y tablero</text>
+
+  <!-- zona de alcance -->
+  <circle cx="400" cy="340" r="130" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="7 5"/>
+  <text x="400" y="203" text-anchor="middle" fill="#3b82f6" font-size="11">zona de alcance (esquemática)</text>
+
+  <!-- robot -->
+  <rect x="368" y="308" width="64" height="64" fill="#2563eb" stroke="#1e3a8a" stroke-width="2"/>
+  <circle cx="400" cy="340" r="19" fill="#9ca3af" stroke="#374151" stroke-width="2"/>
+  <text x="400" y="394" text-anchor="middle" fill="#1f2937">5  Motoman MH6</text>
+  <text x="400" y="410" text-anchor="middle" fill="#6b7280" font-size="11">sobre base azul</text>
+
+  <!-- superficie de dibujo -->
+  <rect x="425" y="258" width="125" height="58" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" stroke-dasharray="5 3"/>
+  <text x="487" y="278" text-anchor="middle" fill="#92400e" font-size="12">6  Plano de dibujo</text>
+  <text x="487" y="293" text-anchor="middle" fill="#92400e" font-size="10">Frame_from_Target1</text>
+  <text x="487" y="307" text-anchor="middle" fill="#92400e" font-size="10">(posición aprox.)</text>
+
+  <!-- controlador -->
+  <rect x="580" y="380" width="90" height="62" fill="#d1d5db" stroke="#374151" stroke-width="2"/>
+  <text x="625" y="406" text-anchor="middle" fill="#1f2937">7  DX100</text>
+  <text x="625" y="421" text-anchor="middle" fill="#6b7280" font-size="11">controlador</text>
+  <text x="625" y="435" text-anchor="middle" fill="#6b7280" font-size="10">(posición aprox.)</text>
+
+  <!-- pendant -->
+  <rect x="700" y="395" width="36" height="46" rx="5" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <text x="718" y="458" text-anchor="middle" fill="#1f2937" font-size="11">8  Teach pendant</text>
+  <line x1="670" y1="412" x2="700" y2="412" stroke="#374151" stroke-width="2"/>
+
+  <!-- PC -->
+  <rect x="570" y="490" width="110" height="40" rx="3" fill="#ecfdf5" stroke="#065f46" stroke-width="2"/>
+  <text x="625" y="515" text-anchor="middle" fill="#065f46" font-size="12">9  PC con RoboDK</text>
+
+  <!-- conexiones -->
+  <line x1="432" y1="352" x2="580" y2="404" stroke="#374151" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="452" y="346" fill="#6b7280" font-size="11" transform="rotate(19 452 346)">cable del manipulador</text>
+  <line x1="625" y1="442" x2="625" y2="490" stroke="#065f46" stroke-width="2"/>
+  <text x="634" y="470" fill="#065f46" font-size="11">Ethernet</text>
+
+  <!-- leyenda -->
+  <rect x="20" y="440" width="270" height="100" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="32" y="460" font-weight="bold" fill="#1f2937">Notas</text>
+  <text x="32" y="478" fill="#4b5563" font-size="11">Croquis armado a partir de las fotos de la celda.</text>
+  <text x="32" y="494" fill="#4b5563" font-size="11">No está a escala; los elementos marcados "aprox."</text>
+  <text x="32" y="510" fill="#4b5563" font-size="11">solo indican su relación con el resto de la celda.</text>
+  <text x="32" y="526" fill="#4b5563" font-size="11">Punteada: cable del manipulador; continua: pendant y red.</text>
+</svg>
