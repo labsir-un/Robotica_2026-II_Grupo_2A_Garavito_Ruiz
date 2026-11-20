@@ -313,10 +313,4 @@ flowchart TD
 
 ## 10. Video
 
-El video comienza con la **introducción oficial LabSIR** y muestra la simulación de la trayectoria polar en RoboDK y su ejecución en el Motoman MH6 controlado desde el PC.
-
-<!-- Reemplazar VIDEO_ID por el identificador del video en YouTube -->
-
-[![Video de la práctica](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-**Enlace:** _pendiente: pegar aquí la URL del video de YouTube_
+[![Video de la práctica](https://youtu.be/nXjKMrVdOyk.jpg)](https://youtu.be/nXjKMrVdOyk)
