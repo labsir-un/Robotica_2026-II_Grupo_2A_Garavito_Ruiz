@@ -313,4 +313,4 @@ flowchart TD
 
 ## 10. Video
 
-[![Video de la práctica](https://youtu.be/nXjKMrVdOyk.jpg)](https://youtu.be/nXjKMrVdOyk)
+[![Video de la práctica](https://img.youtube.com/vi/nXjKMrVdOyk/hqdefault.jpg)](https://youtu.be/nXjKMrVdOyk)
